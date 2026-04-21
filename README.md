@@ -1,4 +1,4 @@
-Java TCP Server (Multi vs Single Threaded)
+Java TCP Server (Multi vs Single Threaded):
 
 A simple Java project demonstrating socket programming and the difference between multi-threaded and single-threaded servers.
 
